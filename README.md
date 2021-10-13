@@ -9,8 +9,8 @@ también debe tener configurado SASS en su proyecto y tener almenos un archivo c
 anidados tipo SASS.
 
 ## Resultados
-![Aplicación overview](https://raw.githubusercontent.com/Mariacamm/Test-TP-Twitch/tree/main/test-tp/images/img1.png)
-![Aplicación busqueda](https://raw.githubusercontent.com/Mariacamm/Test-TP-Twitch/tree/main/test-tp/images/img2.png)
+![Aplicación overview](https://raw.githubusercontent.com/Mariacamm/Test-TP-Twitch/main/test-tp/images/img1.png)
+![Aplicación busqueda](https://raw.githubusercontent.com/Mariacamm/Test-TP-Twitch/main/test-tp/images/img2.png)
 
 ## Tecnologías utilizadas
 
