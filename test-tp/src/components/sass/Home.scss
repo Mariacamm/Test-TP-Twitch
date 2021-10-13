@@ -1,0 +1,27 @@
+$bg-color: #9146ff;
+$font-color: rgb(255, 255, 255);
+
+.header {
+background-color: $bg-color;
+margin-bottom: 20px;
+
+h1{
+    padding-top: 20px;
+    color: $font-color;
+    font-size: 36px;
+}
+p{
+   font-size: 15px;
+   color: $font-color;
+   font-weight: lighter;
+   padding-bottom: 15px;
+}
+}
+
+.cardsList{
+    margin-right: 10px;
+
+.cards{
+    padding: 20px;
+}
+}
